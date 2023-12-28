@@ -28,3 +28,19 @@
 // 	console.log('Hola!');
 // };
 // saludo();
+
+// 📌 Forma #4 - Función sincronica
+// const fnSincrono = () =>{
+//	console.log ('primero');
+//	console.log ('segundo');
+//	console.log ('tercero');
+//};
+//fnSincrono();
+
+//📌 Forma #5 - Función Asincronica
+//const fnAsyng = () => {
+//	setTimeout (()=> {
+//		console.log("Works!");
+//	} , 4000);
+//};
+// fnAsyng();
